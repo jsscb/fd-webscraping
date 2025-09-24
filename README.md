@@ -55,7 +55,7 @@ All data is saved into a structured **CSV file**, making it ready for further **
 - 🔗 Scraped **2 COSRX products**  
 - 📝 Collected **8,500+ reviews**  
 - 💾 Stored in a clean **CSV format**
-- 📊 The complete scraped dataset is available on [Kaggle](https://www.kaggle.com/datasets/jessicaberliani/female-daily-cosrx/data).
+- 📊 The complete scraped dataset is available on [Kaggle](https://www.kaggle.com/datasets/jessicaberliani/female-daily-cosrx/data)
 
 ---
 
