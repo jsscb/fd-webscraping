@@ -43,10 +43,10 @@ All data is saved into a structured **CSV file**, making it ready for further **
 
 ## 📂 Sample Output  
 
-| Product Name            | Review Date | Review Rating | Recommend | Review Text                  | Usage Period | Purchase Point | Product URL | Review Page |  
-|--------------------------|-------------|---------------|-----------|------------------------------|--------------|----------------|-------------|-------------|  
-| COSRX Low pH Cleanser   | 2023-05-10  | 5             | Yes       | "Great for sensitive skin..." | 1 month      | Official Store | https://... | 1 |  
-| COSRX AHA Toner         | 2023-05-12  | 4             | Yes       | "Mild exfoliation, works well" | 2 months     | Online Shop    | https://... | 2 |  
+| Product Name                          | Review Date | Rating | Reviewer Comment                                                                                                                                                                                                 | Usage Period        | Purchase Point | Product URL                                                                                                                        | Review Page |
+|---------------------------------------|-------------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| AHA/BHA Clarifying Treatment Toner    | 09 Apr 2025 | 5      | Aku udah langganan pake ini. Sampe sekarang masih pake. Udah 3 tahun pake dan puas banget. Puas banget sama toner ini. Bikin seger juga. Kalian yang pemula terus pengen nyoba pake toner AHA/BHA ini cocok banget. Terus isinya banyak jadi hemat banget. Love parahhhh. Emang COSRX tuh bagus-bagus semua gaesss. | More than 1 year    | Shopee         | [Link](https://reviews.femaledaily.com/products/cleanser/toner/cosrx/aha-bha-clarifying-treatment-toner)                           | 1           |
+| Low pH Good Morning Gel Cleanser      | 08 Feb 2025 | 5      | Cosrx low Ph good morning gel cleanser tipe facial wash tekstur gel gentle dengan busa sedikit tapi puas ngerasa bersih di wajah dan engga bikin kulit kering dan ketarik. Cocok buat kulit kering kombinasi dan ga bikin breakout di wajah. | 6 months - 1 year  | Shopee         | [Link](https://reviews.femaledaily.com/products/cleanser/facial-wash/cosrx/good-morning-gel-cleanser)                             | 6           |
 
 ---
 
